@@ -5,12 +5,6 @@ A collection of my current and past projects
 - [Machine Learning](#Machine Learning)
 - [Statistical Analysis](#Statistical Analysis)
 
-## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
-- [SQL](#sql)
-- [Python](#python)
-- [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
 
 # Machine Learning
 | Project Link | Tools and Packages | Project Description | 
@@ -22,4 +16,4 @@ A collection of my current and past projects
 # Statistical Analysis
 | Project Link | Tools and Packages | Project Description | 
 |---|---|---|
-|👩🏻‍⚕️ [Health Analytics Case Study]|Python, Pandas| A Case study of the impact public and private healthcare has on 
+|👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/MarcusHjertaas/Programming-Portfolio/blob/main/Anvendt%20Eksamen.ipynb)|Python, Pandas| A Case study of the impact investment in public and private healthcare has on life expectancy.|
