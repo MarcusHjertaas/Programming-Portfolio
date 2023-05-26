@@ -9,7 +9,7 @@ A collection of my current and past projects
 # Machine Learning
 | Project Link | Tools and Packages | Project Description | 
 |---|---|---|
-|🏦 [Bank Term Deposits] | Python, Pandas, Sklearn | The code from a bachelor thesis, attempting to find the best machine learning model for dataset about bank term deposits.]
+|🏦 [Bank Term Deposits] | Python, Pandas, Sklearn | The code from a bachelor thesis, attempting to find the best machine learning model for a dataset about bank term deposits.]
 
 
 
