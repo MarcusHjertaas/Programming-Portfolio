@@ -16,4 +16,4 @@ A collection of my current and past projects
 # Statistical Analysis
 | Project Link | Tools and Packages | Project Description | 
 |---|---|---|
-|👩🏻‍⚕️ [Investment in Healt Care Case Study](https://github.com/MarcusHjertaas/Programming-Portfolio/blob/main/Anvendt%20Eksamen.ipynb)|Python, Pandas| A Case study of the impact investment in public and private healthcare has on life expectancy.Text and comments in norwegian!|
+|👩🏻‍⚕️ [Investment in Healthcare Case Study](https://github.com/MarcusHjertaas/Programming-Portfolio/blob/main/Anvendt%20Eksamen.ipynb)|Python, Pandas| A Case study of the impact investment in public and private healthcare has on life expectancy.Text and comments in norwegian!|
