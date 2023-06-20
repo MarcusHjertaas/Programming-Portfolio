@@ -10,7 +10,7 @@ A collection of my current and past projects
 # Machine Learning
 | Project Link | Completion | Tools and Packages | Project Description | 
 |---|---|---|---|
-|🏦 [Bank Term Deposits] | March 2023 |Python, Pandas, Sklearn | The code from a bachelor thesis, attempting to find the best machine learning model for a dataset about bank term deposits.]
+|🏦 [Bank Term Deposits](https://github.com/MarcusHjertaas/Macine-Learning/blob/main/Bachelor%20code%20full.ipynb) | March 2023 |Python, Pandas, Sklearn | The code from a bachelor thesis, attempting to find the best machine learning model for a dataset about bank term deposits.]
 
 
 
