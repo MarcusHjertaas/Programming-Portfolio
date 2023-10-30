@@ -23,4 +23,4 @@ A collection of my current and past projects
 # Mathmatical Analysis
 | Project Link | Completion | Tools and Packages | Project Description | 
 |---|---|---|---|
-| 🏀 [Linear Optimization of an NBA Team](https://github.com/MarcusHjertaas/Mathmatical-Analysis/blob/main/NBA%20Team%20Optimization.ipynb) | In Progress |Python, Pandas, PuLP| A Linear Optimization of minimizing the salary of a "Championship" winning NBA Team with aggregate team statistics. |
+| 🏀 [Linear Optimization of an NBA Team](https://github.com/MarcusHjertaas/Mathmatical-Analysis/blob/main/NBA%20Team%20Optimization.ipynb) | On hold |Python, Pandas, PuLP| A Linear Optimization of minimizing the salary of a "Championship" winning NBA Team with aggregate team statistics. |
