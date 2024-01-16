@@ -31,5 +31,5 @@ A collection of my current and past projects
 # Other
 | Project Link | Completion | Tools and Packages | Project Description | 
 |---|---|---|---|
-| :earth_africa: [Geo Spatial Analysis of Underwater Datawarehouses](). | November 2023 | QGIS, ArcGIS | A spatial analysis, optimising the position of a underwater datawarehouse in vestland, Norway. Using rule based multi criteria site selection in geographical information software to find a optimal location. |
+| :earth_africa: [Geo Spatial Analysis of Underwater Datawarehouses](https://github.com/MarcusHjertaas/Other-projects/blob/main/reportAppliedDataScience.pdf). | November 2023 | QGIS, ArcGIS | A spatial analysis, optimising the position of a underwater datawarehouse in vestland, Norway. Using rule based multi criteria site selection in geographical information software to find a optimal location. |
 
