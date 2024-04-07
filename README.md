@@ -12,6 +12,7 @@ A collection of my current and past projects
 | Project Link | Completion | Tools and Packages | Project Description | 
 |---|---|---|---|
 |🏦 [Bank Term Deposits](https://github.com/MarcusHjertaas/Macine-Learning/blob/main/Bachelor%20code%20full.ipynb) | March 2023 |Python, Pandas, Sklearn | The code from a bachelor thesis, attempting to find the best machine learning model for a dataset about bank term deposits. |
+| 🏹 [Dialog Character prediction] (https://github.com/MarcusHjertaas/Macine-Learning/blob/main/Character%20prediction.ipynb) | Ongoing | Python, NLTK, SPacy | Using feature engineering to extract features from LOTR dialog for character prediction, a school Project from an NLP course. |
 
 
 
